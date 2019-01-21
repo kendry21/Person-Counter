@@ -1,0 +1,30 @@
+
+Arduino IDE
+https://www.arduino.cc/en/main/software
+
+ESP32
+página https://github.com/espressif/arduino-esp32
+
+Libreria ArduinoJson 
+https://github.com/bblanchon/ArduinoJson
+
+Libreria  IOXhop_FirebaseESP32
+https://github.com/ioxhop/IOXhop_FirebaseESP32
+
+Node.js
+enlace https://nodejs.org/en/download/
+
+Hithub
+https://github.com/kendry21/Person-Counter
+
+1/3 Firebase y Arduino - Esp8266
+https://www.youtube.com/watch?v=xAktJXLCVJs&t=714s
+
+How to host a website on firebase
+https://www.youtube.com/watch?v=Gl-qlxfTJHE&t=18s
+
+Example of counter
+https://www.youtube.com/watch?v=ggxRWFUJC-0
+
+Expo
+https://www.youtube.com/watch?v=gkb-P_40mJ8
